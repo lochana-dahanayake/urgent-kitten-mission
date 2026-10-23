@@ -7,7 +7,7 @@ Your mission, should you choose to accept it, is to bridge the celestial gap and
 ## ⚠️ A Word of Warning
 Be wary, for celestial imposters have appeared! Two false prophets in the form of dogs seek to distract you from your sacred duty. Their chaotic energy is a trap for the unwary. Focus only on the true, divine feline.
 
-### **<a href="https://loch214.github.io/urgent-kitten-mission/" target="_blank" rel="noopener noreferrer">Proceed to the mission...</a>**
+### **<a href="https://lochana-dahanayake.github.io/urgent-kitten-mission/" target="_blank" rel="noopener noreferrer">Proceed to the mission...</a>**
 
 ---
 *This repository is for entertainment purposes only. No kittens or dogs were harmed in the making of this project 😪✌️*
